@@ -2,7 +2,7 @@
 
 Re-implementation of the GPT2 architecture (124M Parameters) based on the GPT-2 and GPT-3 papers and following Karpathy's Neural Networks: Zero to Hero final episode.
 
-### GPT Implementation Details:
+## GPT-2 Implementation Details:
 
 Classical Transformer architecture is used here with pre-norm layer normalization on top of the GPT-2 tokenizer (we used the one from tiktoken but I also rebuilt that one in : TBD). here are some hyperparameters we've used
 
