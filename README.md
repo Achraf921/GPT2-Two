@@ -39,12 +39,12 @@ We used, again as mentioned in the GPT-2 paper a cosine learning rate schedule w
 | max steps | 19073 |
 | training tokens | 10B tokens ~= 1 epoch |
 
+<img src="./views/cosinelr.png" width=600>
+
 ### Training costs : 
 
 We were not able to train that model as it would've costed around 100$'s worth of A100/H100 compute on Lambda which I was highkey
 not willing to spend on a GPT2 rebuild
-
-<img src="./views/cosinelr.png" width=600>
 
 ### Optimizer : 
 
