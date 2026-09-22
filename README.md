@@ -4,7 +4,7 @@ Re-implementation of the GPT2 architecture (124M Parameters) based on the GPT-2 
 
 ## GPT-2 Implementation Details:
 
-Classical Transformer architecture is used here with pre-norm layer normalization on top of the GPT-2 tokenizer (we used the one from tiktoken but I also rebuilt that one in : TBD). here are some hyperparameters we've used
+Classical Transformer architecture is used here with pre-norm layer normalization on top of the GPT-2 tokenizer (we used the one from tiktoken but I also rebuilt that one in : https://github.com/Achraf921/BPE-Tokenizer). here are some hyperparameters we've used
 
 | Hyperparameter| Value |
 |----|---|
