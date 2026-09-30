@@ -19,8 +19,8 @@ Classical Transformer architecture is used here with pre-norm layer normalizatio
 | Embedding dimension | 768 |
 | Vocab size (from GPT2 tokenizer)| 50257 |
 | Block Size | 1024 |
-| Total parameters | 124M |
 | Optimizer | AdamW |
+| Total parameters | 124M |
 
 
 ## Pre-training :
