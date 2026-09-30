@@ -1,6 +1,12 @@
-# GPT2-Two
-
+<div align="center">
+<h1> GPT2-Two </h1>
+<p align="left">
 Re-implementation of the GPT2 architecture (124M Parameters) based on the GPT-2 and GPT-3 papers and following Karpathy's Neural Networks: Zero to Hero final episode.
+</p>
+
+<img src="./views/transformer.jpg" width="300" >
+<p>Drawing of the GPT architecture I've made</p>
+</div>
 
 ## GPT-2 Implementation Details:
 
